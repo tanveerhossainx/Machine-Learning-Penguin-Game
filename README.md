@@ -1,5 +1,8 @@
 # Machine-Learning-Penguin-Game
 ML Penguin game with Wekinator and Processing
+
+![Pinguin Game](https://github.com/thoss003/Machine-Learning-Penguin-Game/blob/master/Game%20Screenshot.png)
+
 You will need to download Wekinator and MFCCs_13Input to move the penguin with your voice
 Download:
 
